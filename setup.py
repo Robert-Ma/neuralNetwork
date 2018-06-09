@@ -10,7 +10,7 @@ setup(
     packages=find_packages(),
     include_package_data=False,
     keywords=['neural', 'network'],
-    license='GPL License',
+    license='MIT License',
     install_requires=[
         'numpy',
         'scipy',
